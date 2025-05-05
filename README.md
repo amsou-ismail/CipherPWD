@@ -1,7 +1,7 @@
 
 # CipherPWD
 
-CipherPWD is a secure password and file management tool. It allows you to encrypt and decrypt file contents with a password, and also provides several features to manage your sensitive data, such as adding new passwords, modifying existing passwords, and removing data.
+CipherPWD is a secure password and file management tool. It uses AES-256 encryption to protect your data. It allows you to encrypt and decrypt file contents with a password, and also provides several features to manage your sensitive data, such as adding new passwords, modifying existing passwords, and removing data.
 
 ## Features
 
