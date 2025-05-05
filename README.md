@@ -17,7 +17,7 @@ CipherPWD is a secure password and file management tool. It allows you to encryp
 
 ### WINDOWS 
 
-Simply go to the "Windows App" folder and execute the CipherPWD.exe application
+Simply go to the "Windows Users" folder and execute the CipherPWD.exe application
 
 ### LINUX
 
