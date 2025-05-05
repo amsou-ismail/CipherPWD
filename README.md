@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
   </tr>
 </table>
 
-## LinkedIn Profiles (for support)
+## LinkedIn Profiles (If a problem occurs, please contact us)
 
 - [AMSOU ISMAIL](https://www.linkedin.com/in/amsou-ismail)
 - [AMAR SAAD](https://www.linkedin.com/in/amar-saad)
