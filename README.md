@@ -76,7 +76,7 @@ Launch the tool with `cipherpwd` in the terminal. Follow the on-screen instructi
   mousepad /path/to/your/file.txt
   ```
 
-'/' for Linux , '\' for Windows .
+'/' for Linux , '\\' for Windows .
 
 # License
 
