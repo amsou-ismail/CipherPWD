@@ -24,7 +24,7 @@ Simply go to the "Windows Users" folder and execute the CipherPWD.exe applicatio
 1. **Clone the GitHub repository**:
 
    ```bash
-   git clone https://github.com/AmsouISMAIL/CipherPWD.git
+   git clone https://github.com/amsou-ismail/CipherPWD.git
    cd CipherPWD
    ```
    or
